@@ -65,6 +65,7 @@ hr {
 .blog {
   display: flex;
   align-items: center;
+  margin-top: 10px;
 }
 .blog .blog-thumbnail img {
   width: 177px;
